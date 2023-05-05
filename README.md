@@ -4,6 +4,7 @@
 ## how to use 
 1. Download [mokuroku](https://github.com/gsi-cyberjapan/mokuroku-spec) and decompress it.
 2. If you want to get a raster tile ver., run below on Node.js;
+
 First, make a `buf` folder, then install [sharp](https://www.npmjs.com/package/sharp?activeTab=readme)
 ```
 npm install sharp
@@ -14,8 +15,8 @@ node list2csv.js
 node csv2array.js
 node array2img.js
 ```
+
 3. If you want to get a vector tile ver., run below on Node.js;
-First, install [sharp](https://www.npmjs.com/package/sharp?activeTab=readme)
 ```
 node list2poly.js
 node tiles.js

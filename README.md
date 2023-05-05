@@ -11,7 +11,7 @@ First, make a `buf` folder, then install [sharp](https://www.npmjs.com/package/s
 ```
 npm install sharp
 ```
-follewd by
+followed by
 ```
 node list2csv.js
 node csv2array.js

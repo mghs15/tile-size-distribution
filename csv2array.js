@@ -6,7 +6,7 @@ const rl = readline.createInterface({input: rs});
 
 
 // config
-const tz = 13; // target zoom level
+const tz = 15; // target zoom level
 
 
 rl.on('line', (line) => {

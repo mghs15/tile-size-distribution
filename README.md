@@ -1,6 +1,8 @@
 # tile-size-distribution
 国土地理院の [mokuroku](https://github.com/gsi-cyberjapan/mokuroku-spec) を使って、各タイルのデータサイズを地図上で可視化します。
 
+![ZL15のタイルサイズ分布例](https://mghs15.github.io/tile-size-distribution/img/6-56-25-tile.csv.png)
+
 ## how to use 
 1. Download [mokuroku](https://github.com/gsi-cyberjapan/mokuroku-spec) and decompress it.
 2. If you want to get a raster tile ver., run below on Node.js;

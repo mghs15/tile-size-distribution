@@ -17,4 +17,4 @@ const tipp = `tippecanoe -l pixel`
            
 
 console.log(tipp);
-//child_process.execSync(`${tipp}`);
+child_process.execSync(`${tipp}`);

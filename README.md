@@ -29,6 +29,9 @@ https://mghs15.github.com/tile-size-distribution/
 
 Tile size distribution of ZL15 [地理院地図Vector](https://github.com/gsi-cyberjapan/gsimaps-vector-experiment).
 
+## blog
+https://qiita.com/mg_kudo/items/69976494b9a95893db11
+
 ## reference 
 * [地理院タイル目録（mokuroku）](https://github.com/gsi-cyberjapan/mokuroku-spec)
 * [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js/) 

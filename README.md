@@ -25,7 +25,7 @@ node tiles.js
 ```
 
 ## demo site
-https://mghs15.github.com/tile-size-distribution/
+https://mghs15.github.io/tile-size-distribution/
 
 Tile size distribution of ZL15 [地理院地図Vector](https://github.com/gsi-cyberjapan/gsimaps-vector-experiment).
 
